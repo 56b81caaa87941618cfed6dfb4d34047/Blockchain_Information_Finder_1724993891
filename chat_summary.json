@@ -1,5 +1,11 @@
 [
     {
+        "role": "chat_acknowledge",
+        "content": "Sure, I'll add a button that says \"Hello World.\"",
+        "timestamp": "30082024051242",
+        "message_id": "guest30082024051240"
+    },
+    {
         "role": "user",
         "content": "add a button that says hello world",
         "timestamp": "30082024051241",
